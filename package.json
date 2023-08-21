@@ -4,12 +4,15 @@
   "version": "0.0.1",
   "description": "chrome extension to display user's country and city",
   "author": "Krish Thakrar",
+  "type": "commonjs",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
     "package": "plasmo package"
   },
   "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
     "plasmo": "0.82.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -21,6 +24,7 @@
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
+    "autoprefixer": "^10.4.15",
     "postcss": "8.4.28",
     "prettier": "3.0.2",
     "typescript": "5.1.6"

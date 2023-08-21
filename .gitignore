@@ -6,6 +6,7 @@
 /.pnp
 .pnp.js
 
+
 # testing
 /coverage
 
@@ -34,6 +35,8 @@ dist/
 
 # bpp - http://bpp.browser.market/
 keys.json
+
+key.js
 
 # typescript
 .tsbuildinfo

@@ -1,5 +1,15 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
+# Country and City Info Chrome Extension
+
+The Country and City Info Chrome Extension allows you to quickly view your current country and city information. It utilizes the IPINFO API to fetch your IP address and retrieve location details.
+
+## Features
+
+- Displays your current country and city information.
+- Uses the IPINFO API to fetch your IP address.
+- Provides real-time location data for a seamless experience.
+
 ## Getting Started
 
 First, run the development server:
